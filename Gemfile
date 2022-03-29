@@ -4,10 +4,11 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "rspec", "~> 3.11"
+gem 'pg'
 gem 'sinatra'
 gem 'sinatra-contrib'
-gem 'capybara'
+gem 'capybara', group: :test
+gem 'rspec', group: :test
 
 
 
