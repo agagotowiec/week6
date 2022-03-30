@@ -30,11 +30,14 @@ REQUIREMENTS:
 
 USER STORIES:
 
-<!-- 1. As a user
-  so I can access my most-liked websites
-  I want to see the list of my bookmarks -->
+% <!-- 1. As a user
+%   so I can access my most-liked websites
+%   I want to see the list of my bookmarks -->
 
-2. As a user,
-   so I can save myself some time,
-   I want to add my favourite websites to bookmark manager
+% 2. As a user,
+%    so I can save time,
+%    I want to add my favourite websites to bookmark manager
  
+ 3.  As a user,
+     so I can remove bookmarks from Bookmarks Manager,
+     I want to delete a bookmark
